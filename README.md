@@ -18,8 +18,8 @@ The latter requires compilation and is suitable for high-performance low-bandwid
 What? high-performance and high-bandwidth machines? Never mind, just use it! have fun!
 
 # 账号密码/Account&Password
-account：admin
-password：
+account：admin  
+password： 每个版本密码就是一个彩蛋！ Easter egg！CHECK the Change Version  
 
 # 说明/Readme
 这个破解原本是自用的，也没打算公开出来    
@@ -40,5 +40,9 @@ We can do a little things for open source, for the world!
 更新20220620最新版插件，同时采用2个版本 nessus/nessuslite  
 前者是已经破解好并且编译好插件，开箱即用  
 后者开机后需要等待几分钟编译插件  
+password: 
+`U2FsdGVkX19WZv+QOe8awVyJwXDPSNSIC1X4AMNA4+3rO8mL/3HZ+mS/Or3DhcWX
+Ks0WHfvOH1q/YNtVdXnaHg==`
+tips: __github/elliot-bia__
 
 
