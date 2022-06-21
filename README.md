@@ -25,7 +25,8 @@ password： 每个版本密码就是一个彩蛋！ Easter egg！CHECK the Chang
 这个破解原本是自用的，也没打算公开出来    
 但是昨天在使用fahai破解版awvs的时候，看到了这么一句话：  
 `Thank's fahai && Open Source Enthusiast `  
-![图片](https://user-images.githubusercontent.com/40572216/174698816-440d4969-f9d6-4c7d-982c-9af9c4a3e875.png =200x100)  
+ <img src="https://user-images.githubusercontent.com/40572216/174698816-440d4969-f9d6-4c7d-982c-9af9c4a3e875.png" width = "400" height = "200" alt="图片名称" align=center />
+ 
 于是我就在思考，我用了那么多开源项目，那我又做出了多少贡献？    
 索性将此项目公开，也算为网安做一点贡献    
 如果没有意外，会持续更新，毕竟我也要用    
