@@ -4,6 +4,8 @@
 
 This project is only for non-profit study and research, please do not use it for illegal purposes, if there is any infringement, please contact in time and it will be delete
 
+[more info](https://twitter.com/Elliot58616851)
+
 # 用法/Usage
 `docker run -itd -p 8834:8834 ramisec/nessus`   (4.73GB)
 
@@ -19,7 +21,9 @@ What? high-performance and high-bandwidth machines? Never mind, just use it! hav
 
 # 账号密码/Account&Password
 account：admin  
-password： 每个版本密码就是一个彩蛋！ Easter egg！CHECK the Change Version  
+password： 每个版本密码就是一个彩蛋！ Easter egg！CHECK the Change Version   
+让大家探索一下，避免伸手党，如果解出了密码，自己用就好，不要公开哟😉  
+Let you explore the funning, if you solved the password, keep it secret😉
 
 # 说明/Readme
 这个破解原本是自用的，也没打算公开出来    
