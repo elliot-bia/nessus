@@ -41,8 +41,7 @@ We can do a little things for open source, for the world!
 前者是已经破解好并且编译好插件，开箱即用    
 后者开机后需要等待几分钟编译插件    
 password:   
-`U2FsdGVkX19WZv+QOe8awVyJwXDPSNSIC1X4AMNA4+3rO8mL/3HZ+mS/Or3DhcWX
-Ks0WHfvOH1q/YNtVdXnaHg==`  
+`U2FsdGVkX19WZv+QOe8awVyJwXDPSNSIC1X4AMNA4+3rO8mL/3HZ+mS/Or3DhcWXKs0WHfvOH1q/YNtVdXnaHg==`  
 tips: __github/elliot-bia__  
 
 其实除了以上解密，还有另一种很简单的办法，让大家挖掘😆
