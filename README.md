@@ -5,10 +5,10 @@
 This project is only for non-profit study and research, please do not use it for illegal purposes, if there is any infringement, please contact in time and it will be delete
 
 # 用法/Usage
-`docker run -itd -p 8834:8834 ramisec/nessus`   (4.6GB)
+`docker run -itd -p 8834:8834 ramisec/nessus`   (4.73GB)
 
 或者/or  
-`docker run -itd -p 8834:8834 ramisec/nessuslite` (2.18GB)
+`docker run -itd -p 8834:8834 ramisec/nessuslite` (3.55GB)
 
 前者不需要编译，适合低性能高带宽机器  
 后者需要编译，适合高性能低带宽机器
@@ -45,4 +45,4 @@ password:
 Ks0WHfvOH1q/YNtVdXnaHg==`  
 tips: __github/elliot-bia__  
 
-
+其实除了以上解密，还有另一种很简单的办法，让大家挖掘😆
