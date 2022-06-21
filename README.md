@@ -7,7 +7,7 @@ This project is only for non-profit study and research, please do not use it for
 # 用法/Usage
 `docker run -itd -p 8834:8834 ramisec/nessus`   (4.6GB)
 
-或者/or
+或者/or  
 `docker run -itd -p 8834:8834 ramisec/nessuslite` (2.18GB)
 
 前者不需要编译，适合低性能高带宽机器  
@@ -22,14 +22,23 @@ account：admin
 password：
 
 # 说明/Readme
-这个破解原本是自用的，也没打算公开出来  
-但是昨天在使用fahai破解版awvs的时候，看到了这么一句话：
-`Thank's fahai && Open Source Enthusiast `
-![图片](https://user-images.githubusercontent.com/40572216/174698816-440d4969-f9d6-4c7d-982c-9af9c4a3e875.png)
-于是我就在思考，我用了那么多开源项目，那我又做出了多少贡献？  
-索性将此项目公开，也算为网安做一点贡献  
-如果没有意外，会持续更新，毕竟我也要用  
-就不把自动更新插件版本弄出来了，先用着吧！
+这个破解原本是自用的，也没打算公开出来    
+但是昨天在使用fahai破解版awvs的时候，看到了这么一句话：  
+`Thank's fahai && Open Source Enthusiast `  
+![图片](https://user-images.githubusercontent.com/40572216/174698816-440d4969-f9d6-4c7d-982c-9af9c4a3e875.png)  
+于是我就在思考，我用了那么多开源项目，那我又做出了多少贡献？    
+索性将此项目公开，也算为网安做一点贡献    
+如果没有意外，会持续更新，毕竟我也要用    
+就不把自动更新插件版本弄出来了，先用着吧！  
 
-The original intention of the project is in the spirit of open source  
-We can do a little things for open source, for the world!
+The original intention of the project is in the spirit of open source    
+We can do a little things for open source, for the world!  
+
+# 更新日志/Changes
+
+## v1 20220621
+更新20220620最新版插件，同时采用2个版本 nessus/nessuslite  
+前者是已经破解好并且编译好插件，开箱即用  
+后者开机后需要等待几分钟编译插件  
+
+
