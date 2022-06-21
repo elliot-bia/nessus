@@ -1,4 +1,4 @@
-# nessus docker 破解
+# nessus docker crack 破解
 
 此项目仅供非营利性学习研究，请勿用作非法用途，如有侵权请及时联系删除
 
@@ -36,13 +36,13 @@ We can do a little things for open source, for the world!
 
 # 更新日志/Changes
 
-## v1 20220621
+## v2 20220621
 更新20220620最新版插件，同时采用2个版本 nessus/nessuslite  
-前者是已经破解好并且编译好插件，开箱即用  
-后者开机后需要等待几分钟编译插件  
-password: 
+前者是已经破解好并且编译好插件，开箱即用    
+后者开机后需要等待几分钟编译插件    
+password:   
 `U2FsdGVkX19WZv+QOe8awVyJwXDPSNSIC1X4AMNA4+3rO8mL/3HZ+mS/Or3DhcWX
-Ks0WHfvOH1q/YNtVdXnaHg==`
-tips: __github/elliot-bia__
+Ks0WHfvOH1q/YNtVdXnaHg==`  
+tips: __github/elliot-bia__  
 
 
