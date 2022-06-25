@@ -1,4 +1,5 @@
 # nessus docker crack 破解
+[English version](# English Translation)
 
 此项目仅供非营利性学习研究，请勿用作非法用途，如有侵权请及时联系删除
 
@@ -54,6 +55,7 @@ __tips__: github/elliot-bia
 ---
 
 # English Translation
+commit by [Aholicknight](https://github.com/Aholicknight)
 
 This project is only for non -profit learning research. Do not use it for illegal purposes. If there is any infringement, please contact it in time to delete it
 
@@ -68,45 +70,45 @@ This project is only for non-profit standy and research, please do not use it fo
 Or/or
 `Docker Run -itd -P 8834: 8834 Ramisec/NESSUSLITE` (3.55GB)
 
-The former does not need to be compiled, suitable for low -performance high -bandwidth machine
-The latter needs to be compiled, suitable for high -performance low bandwidth machines.
+The former does not need to be compiled, suitable for low -performance high -bandwidth machine  
+The latter needs to be compiled, suitable for high -performance low bandwidth machines.  
 
-The Former Does Not Require Compilation and is Suitable for Low-Performance High-Bandwidth Machines
-The Latter Requires Compilation and is Suitable for High-Performance Low-Bandwidth Machines
+The Former Does Not Require Compilation and is Suitable for Low-Performance High-Bandwidth Machines  
+The Latter Requires Compilation and is Suitable for High-Performance Low-Bandwidth Machines  
 What? High-Performance and High-Bandwidth Machines? Next Mind, Just used it! Have fun!
 
 # Account & Password
 
 account: `admin`
 
-Password: Each version of the password is an egg! Easter Egg! Check the change version
-Let everyone explore and avoid reaching the party. If you solve the password, just use it yourself.
+Password: Each version of the password is an egg! Easter Egg! Check the change version  
+Let everyone explore and avoid reaching the party. If you solve the password, just use it yourself.  
 Let you explore the function, if you solved the password, Keep It Secret😉
 
 # Note/Readme
 
-This crack was originally used, and I didn't plan to make it public
-But when I used the FAHAI cracked version of AWVS yesterday, I saw such a sentence:
-`Thank's Fahai && Open Source ENTHUSIAST`
+This crack was originally used, and I didn't plan to make it public  
+But when I used the FAHAI cracked version of AWVS yesterday, I saw such a sentence:  
+`Thank's Fahai && Open Source ENTHUSIAST`  
  <img src="https://user-images.githubusercontent.com/40572216/174698816-440d4969-f9d6-4c7d-982c-9af9c4a3e875.png" width = "400" height = "200" alt="图片名称" align=center />
  
-So I was thinking, I used so many open source projects, how many contributions did I make?
-I simply disclose this project, which can also be considered a little contribution to the Internet security
-If there is no accident, it will continue to be updated, after all, I also need to use
-Don't get the automatic update plug -in version, use it first!
+So I was thinking, I used so many open source projects, how many contributions did I make?  
+I simply disclose this project, which can also be considered a little contribution to the Internet security  
+If there is no accident, it will continue to be updated, after all, I also need to use  
+Don't get the automatic update plug -in version, use it first!  
 
-The Original Intention of the Project is in the Spirit of Open Source
-We can do a little thing for open source, for the world!
+The Original Intention of the Project is in the Spirit of Open Source  
+We can do a little thing for open source, for the world!  
 
 # Update log/changes
 
 ## v2 20220621
 
-Update the latest version of 20220620, and use 2 versions of NESSUS/JESSUSLITE
-The former has been cracked and compiled the plug -in.
-The latter needs to wait a few minutes to compile the plug -in
-password:
-`U2FSDGVKX19WZV+Qoe8awvyjwxDPSNSIC1X4AMNA4+3RO8ml/3Hz+MS/OR3DHCWXKS0WHFVOH1Q/yntvdxnahg ==`
+Update the latest version of 20220620, and use 2 versions of NESSUS/JESSUSLITE  
+The former has been cracked and compiled the plug -in.  
+The latter needs to wait a few minutes to compile the plug -in  
+password:  
+`U2FSDGVKX19WZV+Qoe8awvyjwxDPSNSIC1X4AMNA4+3RO8ml/3Hz+MS/OR3DHCWXKS0WHFVOH1Q/yntvdxnahg ==`  
 
 __TIPS__: GitHub/Elliot-BIA
 
