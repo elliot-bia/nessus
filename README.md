@@ -1,5 +1,6 @@
 # nessus docker crack 破解
-[English version](# English Translation)
+[English version](#jump)
+
 
 此项目仅供非营利性学习研究，请勿用作非法用途，如有侵权请及时联系删除
 
@@ -55,7 +56,8 @@ __tips__: github/elliot-bia
 ---
 
 # English Translation
-commit by [Aholicknight](https://github.com/Aholicknight)
+commit by [Aholicknight](https://github.com/Aholicknight)  <span id = "jump">English Version</span>
+thanks a lot! 
 
 This project is only for non -profit learning research. Do not use it for illegal purposes. If there is any infringement, please contact it in time to delete it
 
