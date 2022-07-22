@@ -23,7 +23,7 @@
 
 
 # 更新
-`docker exec -it ramisec_nessus /bin/sh /nessus/update.sh`
+`docker exec -it ramisec_nessus /bin/bash /nessus/update.sh`
 
 
 
@@ -53,7 +53,7 @@ __重磅更新：自动更新插件docker版的Nessus搞出来了！__
 用法： `docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  
 下载下来的容器是没有更新插件的  
 之后再更新插件，更新插件的命令都相同：   
-`docker exec -it ramisec_nessus /bin/sh /nessus/update.sh`  
+`docker exec -it ramisec_nessus /bin/bash /nessus/update.sh`  
 下次要更新的话，执行相同的命令即可
 
 
@@ -119,7 +119,7 @@ __Big update：auto-update plugins version has release！__
 
 usage： `docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  
 The container had no plugins, it need to update by following command:  
-`docker exec -it ramisec_nessus /bin/sh /nessus/update.sh`  
+`docker exec -it ramisec_nessus /bin/bash /nessus/update.sh`  
 and it can be update again next time by the same command ！
 
 
