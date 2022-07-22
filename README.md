@@ -15,15 +15,15 @@
 `docker exec -it ramisec_nessus /bin/sh /nessus/update.sh`
 
 
---# 用法/Usage--
---`docker run -itd -p 8834:8834 ramisec/nessus`   (4.73GB)--
---或者/or  --
---`docker run -itd -p 8834:8834 ramisec/nessuslite` (3.55GB)--
---前者不需要编译，适合低性能高带宽机器 -- 
---后者需要编译，适合高性能低带宽机器--
---The former does not require compilation and is suitable for low-performance high-bandwidth machines--  
---The latter requires compilation and is suitable for high-performance low-bandwidth machines--  
---What? high-performance and high-bandwidth machines? Never mind, just use it! have fun!--
+~~# 用法/Usage~~
+~~`docker run -itd -p 8834:8834 ramisec/nessus`   (4.73GB)~~
+~~或者/or  ~~
+~~`docker run -itd -p 8834:8834 ramisec/nessuslite` (3.55GB)~~
+~~前者不需要编译，适合低性能高带宽机器 ~~ 
+~~后者需要编译，适合高性能低带宽机器~~
+~~The former does not require compilation and is suitable for low-performance high-bandwidth machines~~  
+~~The latter requires compilation and is suitable for high-performance low-bandwidth machines~~  
+~~What? high-performance and high-bandwidth machines? Never mind, just use it! have fun!~~
 
 # 账号密码
 account：admin  
@@ -39,7 +39,7 @@ password： 每个版本密码就是一个彩蛋！ Easter egg！CHECK the Chang
 于是我就在思考，我用了那么多开源项目，那我又做出了多少贡献？    
 索性将此项目公开，也算为网安做一点贡献    
 如果没有意外，会持续更新，毕竟我也要用    
---就不把自动更新插件版本弄出来了，先用着吧！--  
+~~就不把自动更新插件版本弄出来了，先用着吧！~~  
 已更新！（20220722）
 
 
@@ -83,9 +83,9 @@ This project is only for non -profit learning research. Do not use it for illega
 
 That's right, easy like that! But it need update the plugins🤣
 
---The Former Does Not Require Compilation and is Suitable for Low-Performance High-Bandwidth Machines--  
---The Latter Requires Compilation and is Suitable for High-Performance Low-Bandwidth Machines--  
---What? High-Performance and High-Bandwidth Machines? Next Mind, Just used it! Have fun!--
+~~The Former Does Not Require Compilation and is Suitable for Low-Performance High-Bandwidth Machines~~  
+~~The Latter Requires Compilation and is Suitable for High-Performance Low-Bandwidth Machines~~  
+~~What? High-Performance and High-Bandwidth Machines? Next Mind, Just used it! Have fun!~~
 
 # Account & Password
 
@@ -104,7 +104,7 @@ But when I used the FAHAI cracked version of AWVS yesterday, I saw such a senten
 So I was thinking, I used so many open source projects, how many contributions did I make?  
 I simply disclose this project, which can also be considered a little contribution to the Internet security  
 If there is no accident, it will continue to be updated, after all, I also need to use  
---Don't get the automatic update plug -in version, use it first!--  
+~~Don't get the automatic update plug -in version, use it first!~~  
 I had release auto-update version, check Update log!
 
 The Original Intention of the Project is in the Spirit of Open Source  
