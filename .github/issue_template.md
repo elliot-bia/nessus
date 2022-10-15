@@ -4,7 +4,7 @@ A clear and concise description of what the bug is.
 请用精炼的语言描述问题所在
 
 **To Reproduce**
-**问题浮复现**
+**问题复现步骤**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
