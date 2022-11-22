@@ -57,16 +57,12 @@ password:
 __tips__: github/elliot-bia  
 
 
-> ~~# 旧版用法/Usage~~
-> ~~`docker run -itd -p 8834:8834 ramisec/nessus`   (4.73GB)~~
-> ~~或者/or~~  
-> ~~`docker run -itd -p 8834:8834 ramisec/nessuslite` (3.55GB)~~  
-> ~~前者不需要编译，适合低性能高带宽机器~~
-> ~~后者需要编译，适合高性能低带宽机器~~
-> ~~The former does not require compilation and is suitable for low-performance high-bandwidth machines~~  
-> ~~The latter requires compilation and is suitable for high-performance low-bandwidth machines~~  
-> ~~What? high-performance and high-bandwidth machines? Never mind, just use it! have fun!~~
-
+> ~~# 旧版用法/Usage~~  
+> ~~`docker run -itd -p 8834:8834 ramisec/nessus`   (4.73GB)~~  
+> ~~或者/or~~    
+> ~~`docker run -itd -p 8834:8834 ramisec/nessuslite` (3.55GB)~~    
+> ~~前者不需要编译，适合低性能高带宽机器~~  
+> ~~后者需要编译，适合高性能低带宽机器~~  
 
 其实除了以上解密，还有另一种很简单的办法，让大家挖掘😆
 

@@ -2,7 +2,7 @@
 
 This project is only for non -profit learning research. Do not use it for illegal purposes. If there is any infringement, please contact it in time to delete it
 
-[more info] (https://twitter.com/elliot58616851)
+[more info](https://twitter.com/elliot58616851)
 
 # Usage
 `docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  (497MB Only!!!)
@@ -13,7 +13,7 @@ That's right, easy like that! But it need update the plugins with the following 
 `docker exec -it ramisec_nessus /bin/bash /nessus/update.sh`  
 
 
-__Alert__
+__Alert__  
 If you CAN NOT update successful, please CHECK the network connection!
 
 
@@ -62,8 +62,6 @@ password:
 
 __TIPS__: gitHub/elliot-bia
 
-In fact, in addition to the above decryption, there is another very simple way to let everyone dig
-
 
 > ~~# Old Usage~~
 > ~~`docker run -itd -p 8834:8834 ramisec/nessus`   (4.73GB)~~
@@ -76,6 +74,6 @@ In fact, in addition to the above decryption, there is another very simple way t
 In fact, there is another EASY way to solved the encryption, try and find it!😆
 
 # Thanks note
-Some English text translate by [Aholicknight](https://github.com/Aholicknight)
+Some English text translated by [Aholicknight](https://github.com/Aholicknight)
 
 thanks a lot! 
