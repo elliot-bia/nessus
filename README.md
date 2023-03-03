@@ -6,7 +6,7 @@
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/follow/Elliot58616851?style=social)](https://twitter.com/Elliot58616851)
+[![Twitter URL](https://img.shields.io/twitter/follow/Elliot58616851?style=social)](https://twitter.com/Elliot58616851){:target="_blank"}
 
 
 # 用法/Usage
