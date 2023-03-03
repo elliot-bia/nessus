@@ -4,7 +4,9 @@
 
 此项目仅供非营利性学习研究，请勿用作非法用途，如有侵权请及时联系删除
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/Elliot58616851)
+
+
+[![Twitter URL](https://img.shields.io/twitter/follow/Elliot58616851?style=social)](https://twitter.com/Elliot58616851)
 
 
 # 用法/Usage
