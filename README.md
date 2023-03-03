@@ -6,7 +6,10 @@
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/follow/Elliot58616851?style=social)](https://twitter.com/Elliot58616851){:target="_blank"}
+<a href="https://twitter.com/Elliot58616851" img="https://img.shields.io/twitter/follow/Elliot58616851?style=social" target="_blank">Follow me</a>
+
+
+
 
 
 # 用法/Usage
