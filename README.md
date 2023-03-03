@@ -4,8 +4,7 @@
 
 此项目仅供非营利性学习研究，请勿用作非法用途，如有侵权请及时联系删除
 
-
-[more info](https://twitter.com/Elliot58616851)
+https://img.shields.io/twitter/follow/Elliot58616851?style=social
 
 # 用法/Usage
 `docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  (只有 497MB !!!)  
