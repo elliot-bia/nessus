@@ -81,7 +81,7 @@ We can do a little thing for open source, for the world!
 
 - Fix Timezone error
 
-- Add scan date migration
+- Add scan data migration
 
 - Change password
 
