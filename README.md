@@ -22,13 +22,18 @@ This project is only for non-profit learning research. Do not use it for illegal
 </div>
 
 # Usage
-`docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  (497MB Only!!!)
+`docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  ~~(497MB Only!!!)~~ (It takes 885MB now becaues add openjdk8)
 
 That's right, easy like that! But it need update the plugins with the following command. 🤣
 
 # Update
-`docker exec -it ramisec_nessus /bin/bash /nessus/update.sh`  
-
+`docker exec -it ramisec_nessus /bin/bash  -c "/nessus/update.sh UPDATE_URL_YOU_GOT"`
+The **UPDATE_URL_YOU_GOT** you need to apply in nessus [website](https://tenable.com/products/nessus/nessus-essentials) to get **an activation-code**, and generate it in this [website](https://plugins.nessus.org/v2/offline.php)
+For example:
+<img width="544" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/0a821a76-060c-4b51-a1a4-f95bd56e2556">
+Any stings like `aaaaaa11b2222cc33d44e5f6666a777b8cc99912` would be available, but remeber must not be the same :)
+And you will get the **UPDATE_URL_YOU_GOT**
+<img width="548" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/48adee7e-8423-4e17-b54f-94641c02906e">
 
 __Alert__  
 If you CAN NOT update successful, please CHECK the network connection!
@@ -76,6 +81,12 @@ The Original Intention of the Project is in the Spirit of Open Source
 We can do a little thing for open source, for the world!  
 
 # Update log
+
+## v5 20231218
+
+- Fix Crack fail situation
+
+- Add openjdk-8-jdk
 
 ## v4 20230523
 

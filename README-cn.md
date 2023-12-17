@@ -31,7 +31,13 @@
 
 
 # 更新
-`docker exec -it ramisec_nessus /bin/bash /nessus/update.sh`
+`docker exec -it ramisec_nessus /bin/bash  -c "/nessus/update.sh UPDATE_URL_YOU_GOT"`
+这个 **UPDATE_URL_YOU_GOT** 更新url需要先从 [官网](https://tenable.com/products/nessus/nessus-essentials) 申请一个激活码 **an activation-code**，然后再从这个 [网站](https://plugins.nessus.org/v2/offline.php)生成URL
+举个栗子:
+<img width="544" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/0a821a76-060c-4b51-a1a4-f95bd56e2556">
+任意机器码格式`aaaaaa11b2222cc33d44e5f6666a777b8cc99912` 都可以，但是不要跟别人相同
+然后就生成了 **UPDATE_URL_YOU_GOT**
+<img width="548" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/48adee7e-8423-4e17-b54f-94641c02906e">
 
 __提醒__  
 如果你无法更新成功，请检查网络连接  
@@ -75,6 +81,11 @@ password： 每个版本密码就是一个彩蛋！ Easter egg！CHECK the Chang
 
 
 # 更新日志
+
+## v5 20231218
+
+- 修改破解失效问题
+- 增加openjdk-8-jdk
 
 ##  v4 20230523
 
