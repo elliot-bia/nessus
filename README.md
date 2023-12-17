@@ -37,7 +37,7 @@ Any stings like `aaaaaa11b2222cc33d44e5f6666a777b8cc99912` would be available, b
 
 And you will get the **UPDATE_URL_YOU_GOT**
 
-<img width="548" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/48adee7e-8423-4e17-b54f-94641c02906e">
+<img width="540" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/486988b6-352e-4d8e-9910-1308c50bc053">
 
 __Alert__  
 If you CAN NOT update successful, please CHECK the network connection!
