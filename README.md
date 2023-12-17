@@ -22,7 +22,7 @@ This project is only for non-profit learning research. Do not use it for illegal
 </div>
 
 # Usage
-`docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  ~~(497MB Only!!!)~~ (It takes 885MB now becaues add openjdk8)
+`docker run -itd --name=ramisec_nessus -p 8834:8834 ramisec/nessus`  ~~(497MB Only!!!)~~ (It takes 885MB now because of adding openjdk8)
 
 That's right, easy like that! But it need update the plugins with the following command. 🤣
 

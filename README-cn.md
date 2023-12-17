@@ -41,7 +41,7 @@
 
 然后就生成了 **UPDATE_URL_YOU_GOT**
 
-<img width="548" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/48adee7e-8423-4e17-b54f-94641c02906e">
+<img width="540" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/486988b6-352e-4d8e-9910-1308c50bc053">
 
 __提醒__  
 如果你无法更新成功，请检查网络连接  
