@@ -31,17 +31,17 @@
 
 
 # 更新
-`docker exec -it ramisec_nessus /bin/bash  -c "/nessus/update.sh UPDATE_URL_YOU_GOT"`
-这个 **UPDATE_URL_YOU_GOT** 更新url需要先从 [官网](https://tenable.com/products/nessus/nessus-essentials) 申请一个激活码 **an activation-code**，然后再从这个 [网站](https://plugins.nessus.org/v2/offline.php)生成URL
-举个栗子:
+`docker exec -it ramisec_nessus /nessus/update.sh "UPDATE_URL_YOU_GOT"`  
+这个 **UPDATE_URL_YOU_GOT** 更新url需要先从 [官网](https://tenable.com/products/nessus/nessus-essentials) 申请一个激活码 **an activation-code**，然后再从这个 [网站](https://plugins.nessus.org/v2/offline.php)生成URL  
+举个栗子:  
 
-<img width="544" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/0a821a76-060c-4b51-a1a4-f95bd56e2556">
+<img width="544" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/0a821a76-060c-4b51-a1a4-f95bd56e2556">  
 
-任意机器码格式`aaaaaa11b2222cc33d44e5f6666a777b8cc99912` 都可以，但是不要跟别人相同
+任意机器码格式`aaaaaa11b2222cc33d44e5f6666a777b8cc99912` 都可以，但是不要跟别人相同  
 
-然后就生成了 **UPDATE_URL_YOU_GOT**
+然后就生成了 **UPDATE_URL_YOU_GOT**  
 
-<img width="540" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/486988b6-352e-4d8e-9910-1308c50bc053">
+<img width="540" alt="image" src="https://github.com/elliot-bia/nessus/assets/40572216/486988b6-352e-4d8e-9910-1308c50bc053">  
 
 __提醒__  
 如果你无法更新成功，请检查网络连接  
